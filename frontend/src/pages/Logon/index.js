@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import App from '../../App';
 import './styles.css';
 import { Link, useHistory } from 'react-router-dom';
 import { FiLogIn } from 'react-icons/fi'
